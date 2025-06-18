@@ -1,0 +1,10 @@
+[project]
+name = "langraph"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipython>=9.3.0",
+    "langgraph>=0.4.8",
+]
